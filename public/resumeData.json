@@ -62,25 +62,25 @@
         "company":"WILD CODE SCHOOL",
         "title":"dévelopeur Web/Logiciels",
         "years":"2018",
-        "description":"Formation intensive sur Javascript, Node, React, HTML, CSS, Git, MongoDB, MySQL, Eléctron Bootstrap. Réalisation de 3 projets en méthodes agiles, avec rôle de scrum-master"
+        "description":"Formation intensive sur Javascript, Node.js, REACT, HTML, CSS, avec notamment l'utilisation de Git & GitHub, MongoDB, MySQL, Eléctron, Bootstrap. Réalisation & présentation de 3 projets en méthodes agiles, avec le rôle de scrum-master."
       },
       {
         "company":"LOGOPAK FRANCE",
         "title":"Technicien SAV itinérant",
         "years":"2014 - 2016",
-        "description":"Deploiement et SAV d'étiqueteuses industrielles à haute cadence, et des systèmes informatiques inhérents (PC, DB, comm, reseaux); assistance technique et formations clients, référent technique, Veille, échanges en anglais avec la hotline lorsque à l'etranger."
+        "description":"Déploiement et S.A.V d'étiqueteuses industrielles à haute cadence, et des systèmes informatiques inhérents (PC, bases de données, réseaux); assistance technique et formations clients, référent technique, veille, échanges en anglais avec le siège lorsque à l’étranger."
       },
       {
         "company":"AXIOME CONCEPT",
         "title":"Automaticien travaux neufs",
         "years":"2011 - 2013 ",
-        "description":"Réalisation d'interfaces de supervision pour les parkings INDIGO; réalisation des interfaces et déploiement sur sites, tests fonctionnels, formations clients."
+        "description":"Mise en place d'interfaces de supervision pour les parkings INDIGO; programmation des interfaces, déploiement hardware et logiciel, raccordement et tests fonctionnels, formation du personnel utilisateur."
       },
       {
         "company":"VANDERLANDE INDUSTRIES",
         "title":"Technicien systèmes automatisés",
         "years":"2009 - 2011",
-        "description":"Maintenance d'un trieur automatisé de colis haute cadence, interventions sur réseaux serveurs et PC; gestion d'intervenants extérieurs, rôle d'interface technique avec le client; échanges en anglais avec le siège Hollandais."
+        "description":"Maintenance et amélioration d'un prototype évolué de trieur automatisé haute cadence; poste en autonomie incluant les serveurs, réseaux et PC. Gestion d'intervenants extérieurs, rôle d'interface technique avec le client, échanges en anglais avec le siège Hollandais."
       }
     ],
     "skills":[
