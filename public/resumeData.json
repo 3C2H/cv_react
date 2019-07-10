@@ -1,15 +1,15 @@
 {
   "main": {
-    "name":"Charles Chiacchia",
+    "name":"Charles-Alexandre Chiacchia",
     "occupation":"Web developpeur junior",
-    "description":"JavaScript/Node/React En recherche de stage",
+    "description":"JavaScript/Node/React/Angular",
     "image":"profilepic.jpg",
-    "bio":"Une part technique, une part artistique, et une (grande) part informatique. Passionné depuis toujours par ce domaine, je me suis récemment donné pour défi d'en faire ma profession. Sortant d'une formation intensive sur Javascript, Nodejs, React, HTML & CSS, J'ai contribué à la réalisation de 3 projets web, et suis à la recherche d'un stage pour poursuivre ma formation.",
-    "contactmessage":"Mon profil vous intéresse ? N'hésitez pas, écrivez moi !",
+    "bio":"Une part technique, une part artistique, et une (grande) part informatique. Passionné depuis toujours par ce domaine, je me suis récemment donné pour défi d'en faire ma profession. Après une formation intensive sur Javascript, Nodejs, React, HTML & CSS, mise en pratique par la réalisation de plusieurs projets web, Je suis à la recherche de nouveaux défis",
+    "contactmessage":"Mon profil vous intéresse ? N'hésitez pas, contactez moi !",
     "email": "Charles.CHIACCHIA@Gmail.com",
     "phone": "+33 6 88 44 39 77",
     "address":{
-      "street":"110 Avenue de Nonneville",
+      "street":"1 Bis, Rue du DR Roux",
       "city":"Aulnay sous bois",
       "state":"France",
       "zip": "93600"
@@ -42,7 +42,7 @@
         "school":"ETS Global, Paris",
         "degree":"TOEIC",
         "graduated":"2013",
-        "description":"Validation du niveau d'expression en anglais SCORES : Compréhension orale et écrite 980/990, Elocution et expression écrite : 330/400 *Note generale*"
+        "description":"Validation du niveau d'expression en anglais SCORES : Compréhension orale et écrite 980/990, Elocution et expression écrite : 330/400"
       },
       {
         "school":"Lycée Saint Nicolas, Paris",
@@ -58,6 +58,12 @@
       }
     ],
     "work":[
+      {
+        "company":"WOP mobile ticket",
+        "title":"stagiaire dévelopeur",
+        "years":"2019",
+        "description":"Développement en fullstack des composants d'une application Angular de billetterie pour transports urbains. Utilisation de Git & Jira pour le versionning, Mocha, Chai & Postman pour les phases de tests, MongoDB Nosqlbooster pour la base de données. Développement de la partie achats, de l'interface utilisateur et de l'interface administrateur. Réalisation des test (TDD), développement de correctifs."
+      },
       {
         "company":"WILD CODE SCHOOL",
         "title":"dévelopeur Web/Logiciels",
@@ -143,7 +149,7 @@
       },
       {
         "title":"Siouplait",
-        "category":"Application web progressive simplifiant la commande et le paiement, destinée aux food-trucks.(la preview ne reflète que le rendu, car l'application est utilisée.)",
+        "category":"Application web progressive simplifiant la commande et le paiement, destinée aux food-trucks.(la preview ne reflète que le rendu)",
         "image":"Siouplait splash.png",
         "url":"https://siouplait.github.io/order/"
       }
