@@ -149,9 +149,15 @@
       },
       {
         "title":"Siouplait",
-        "category":"Application web progressive simplifiant la commande et le paiement, destinée aux food-trucks.(la preview ne reflète que le rendu)",
+        "category":"Application web progressive simplifiant la commande et le paiement, destinée aux food-trucks.",
         "image":"Siouplait splash.png",
         "url":"https://siouplait.github.io/order/"
+      },
+      {
+        "title":"WOP",
+        "category":"Application permettant l'achat et l'utilisation de titres de transport dématérialisés",
+        "image":"WOP-LOGO-GREEN.png",
+        "url":"http://wop-app.com/"
       }
     ]
   },
