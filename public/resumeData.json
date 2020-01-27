@@ -60,13 +60,13 @@
     "work":[
       {
         "company":"WOP",
-        "title":"stagiaire dévelopeur",
+        "title":"stagiaire développeur",
         "years":"2019",
         "description":"Développement en fullstack des composants d'une application Angular de billetterie pour transports urbains. Utilisation de Git & Jira pour le versionning, Mocha, Chai & Postman pour les phases de tests, MongoDB Nosqlbooster pour la base de données. Développement de la partie achats, de l'interface utilisateur et de l'interface administrateur. Réalisation des test (TDD), développement de correctifs."
       },
       {
         "company":"WILD CODE SCHOOL",
-        "title":"dévelopeur Web/Logiciels",
+        "title":"développeur Web/Logiciels",
         "years":"2018",
         "description":"Formation intensive sur Javascript, Node.js, REACT, HTML, CSS, avec notamment l'utilisation de Git & GitHub, MongoDB, MySQL, Eléctron, Bootstrap. Réalisation & présentation de 3 projets en méthodes agiles, avec le rôle de scrum-master."
       },
