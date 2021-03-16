@@ -4,7 +4,7 @@
     "occupation":"Web developpeur junior",
     "description":"JavaScript/Node/React/Angular",
     "image":"profilepic.jpg",
-    "bio":"Une part technique, une part artistique, et une (grande) part informatique. Passionné depuis toujours par ce domaine, je me suis récemment donné pour défi d'en faire ma profession. Après une formation intensive sur Javascript, Nodejs, React, HTML & CSS, mise en pratique par la réalisation de plusieurs projets web, Je suis à la recherche de nouveaux défis !",
+    "bio":"Une part technique, une part artistique, et une (grande) part informatique. Passionné depuis toujours par ce domaine, je me suis donné pour défi d'en faire ma profession. A la suite d'une carriere dans l'industrie, je me suis orienté sur une formation intensive à Javascript, Nodejs, React, HTML & CSS Effectuée dans un cadre concret et mise en pratique par la réalisation de plusieurs projets web.",
     "contactmessage":"Mon profil vous intéresse ? N'hésitez pas, contactez moi !",
     "email": "Charles.CHIACCHIA@Gmail.com",
     "phone": "+33 6 88 44 39 77",
@@ -33,6 +33,12 @@
     "skillmessage":"Voici mes outils de référence",
     "education":[
       {
+        "school":"SCRIMBA",
+        "degree":"DEVELOPPEUR REACT",
+        "graduated":"2020",
+        "description":"Formation avancée Javascript/React."
+      },
+      {
         "school":"Wild code School, Paris",
         "degree":"DEVELOPPEUR WEB & LOGICIELS",
         "graduated":"2018",
@@ -59,8 +65,14 @@
     ],
     "work":[
       {
+        "company":"SCRIMBA",
+        "title":"développeur",
+        "years":"2020",
+        "description":"Apprentissage de REACT et de ses outils avancés, par la réalisation d'exercices interactifs et de projets. (formation à temps plein)"
+      },
+      {
         "company":"WOP",
-        "title":"stagiaire développeur",
+        "title":"développeur stagiaire",
         "years":"2019",
         "description":"Développement en fullstack des composants d'une application Angular de billetterie pour transports urbains. Utilisation de Git & Jira pour le versionning, Mocha, Chai & Postman pour les phases de tests, MongoDB Nosqlbooster pour la base de données. Développement de la partie achats, de l'interface utilisateur et de l'interface administrateur. Réalisation des test (TDD), développement de correctifs."
       },
@@ -124,11 +136,6 @@
         "name":"CSS3",
         "description":"",
         "image":"css3-original.svg"
-      },
-      {
-        "name":"Bootstrap 4",
-        "description":"",
-        "image":"bootstrap-plain.svg"
       }
     ] 
   },
